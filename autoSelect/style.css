@@ -1,0 +1,28 @@
+#input{
+	
+	float:left;
+	width: 100%;
+}
+#select{
+
+	float:left;
+	width: 100%;
+
+}
+.option{
+
+	float: left;
+	width: 100%;
+
+}
+.option:hover{
+
+	background-color: #aaa;
+	cursor: pointer;
+}
+.div{
+
+	width: 30%;
+	margin-left: 35%;
+	margin-right: 35%;
+}
